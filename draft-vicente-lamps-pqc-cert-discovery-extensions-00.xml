@@ -1,14 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE rfc [
-  <!ENTITY nbsp "&#160;">
+<!ENTITY nbsp "&#160;">
 ]>
-<rfc xmlns:xi="http://www.w3.org/2001/XInclude"
-     category="info"
-     docName="draft-vicente-lamps-pqc-cert-discovery-extensions-00"
-     ipr="trust200902"
-     submissionType="independent"
-     xml:lang="en"
-     version="3">
+<rfc xmlns:xi="http://www.w3.org/2001/XInclude" category="info" docName="draft-vicente-lamps-pqc-cert-discovery-extensions-00" ipr="trust200902" submissionType="IETF" xml:lang="en" version="3">
 
   <front>
     <title abbrev="PQC Cert Discovery Extensions">Post-Quantum and Multi-Tenant Extensions to X.509 Certificate Discovery</title>
