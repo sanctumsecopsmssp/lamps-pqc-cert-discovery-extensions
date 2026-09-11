@@ -185,12 +185,13 @@ Internet-Draft        PQC Cert Discovery Extensions            June 2026
 8.  Informative References
 
    [RFC2119]  Bradner, S., "Key words for use in RFCs to Indicate
-              Requirement Levels", March 1997,
+              Requirement Levels", BCP 14, RFC 2119,
+              DOI 10.17487/RFC2119, March 1997,
               <https://www.rfc-editor.org/info/rfc2119>.
 
    [RFC8174]  Leiba, B., "Ambiguity of Uppercase vs Lowercase in RFC
-              2119 Key Words", May 2017,
-              <https://www.rfc-editor.org/info/rfc8174>.
+              2119 Key Words", BCP 14, RFC 8174, DOI 10.17487/RFC8174,
+              May 2017, <https://www.rfc-editor.org/info/rfc8174>.
 
 Author's Address
 
@@ -200,7 +201,6 @@ Author's Address
    United States of America
    Email: bvicente@sanctumsecops.com
    URI:   https://orcid.org/0009-0006-6395-5308
-
 
 
 
